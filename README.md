@@ -13,3 +13,4 @@ The team aims to make full use of housing and neighborhood information to predic
 - Hyper-parameter Tuning
 
 # Report
+[Prediction on Housing Price Based on Deep Learning](https://github.com/chaoyuezheng/PredictHousingPrices/blob/master/IEORE4200_Final_Project_Report.pdf)
