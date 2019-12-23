@@ -1,5 +1,5 @@
 # PredictHousingPrices
-Predict Housing Prices - Final Project for deep learning
+Predict Housing Prices - Final Project for IEORE4720 Deep Learning
 
 # Project Objective
 The team aims to make full use of housing and neighborhood information to predict housing price in Manhattan, New York. Data were obtained by scraping housing infomation from real estate website and using Google API to obtain the restaurants' prive level near the house. Linear regression was used as baseline model, while DNN, XGBoost, Random Forest were used to improve the accuracy of prediction.
@@ -12,3 +12,4 @@ The team aims to make full use of housing and neighborhood information to predic
 - XGBoost
 - Hyper-parameter Tuning
 
+# Report
